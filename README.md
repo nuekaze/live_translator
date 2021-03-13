@@ -3,8 +3,8 @@
 Translate text on screen.
 
 ## Installation
-Install requirements.txt python packages.
-Install tesseract: https://tesseract-ocr.github.io/
+Install requirements.txt python packages.<br>
+Install tesseract: https://tesseract-ocr.github.io/<br>
 Install japanese tesseract data: https://github.com/tesseract-ocr/tessdata/blob/master/jpn.traineddata
 
 ## Usage
